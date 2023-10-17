@@ -1,0 +1,7 @@
+sidebar {
+    width: 345px;
+    height: 1024px;
+    background: #2F3038;
+    flex-shrink: 0
+}
+
